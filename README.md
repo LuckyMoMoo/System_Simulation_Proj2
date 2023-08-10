@@ -5,7 +5,7 @@ A terminal at an airport has one queue to check in for the Terminal $1$ passenge
 check-in, passengers join along with Terminal $2$ passengers to a Security-Check
 as shown in the following figure.
 
-
+![image](fig2_assn2.PNG)
 
 The arrivals are Poisson distributed with rates $\lambda_1$ and $\lambda_2$ for Terminal $1$ and $2$ passengers, respectively.
 The service times are exponentially distributed with service rates $\mu_1, \mu_S$ for terminal $1$ check-in and terminal $2$ security-check, respectively.
